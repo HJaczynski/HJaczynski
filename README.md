@@ -2,7 +2,7 @@
 
 🎓 Data Science student @ Warsaw University of Technology | ex-Data Scientist @ Nokia  
 💡 Interested in Machine Learning, NLP, Deep Learning & Computer Vision  
-☁️ Building scalable ML pipelines on Google Cloud with Ray
+☁️ Building scalable ML pipelines
 ---
 ## 🛠️ Skills
 
